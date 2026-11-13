@@ -53,4 +53,4 @@ These are a list of tools i have used in my time so far
 ## Projects
 - Detection Lab
 - SOC Automation Project
--  <a href="https://github.com/O5council1/Home-lab/tree/main">Home Lab</a>
+-  <a href="https://github.com/Aadi-64/Home-lab/tree/main">Home Lab</a>
