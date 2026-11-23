@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/aadil-choudhury-2a9193265/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a  young and aspiring cyber seurity specialist with a profound interest in technology and a dedication to solving complex problems. I have strong motivation and discipline to push my self to achive the best i can in the field. 
+I am a  young and aspiring cyber seurity specialist with a profound interest in technology and a dedication to solving complex problems. I have strong motivation and discipline to push my self to achive the best I can in the field by constantly learning and adapting to what ever challenges are thrown my way. 
 
 ## Objective
 
@@ -13,7 +13,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Web Development                               | Group and Individual Projects in University|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
